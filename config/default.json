@@ -1,0 +1,5 @@
+{
+  "port": 5000,
+  "mongoUrl": "mongodb+srv://allevkas:12345qwe@cluster0.uelnq.mongodb.net/app?retryWrites=true&w=majority",
+  "secret": "SECRET_KEY_RANDOM"
+}
